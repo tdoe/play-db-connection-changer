@@ -1,0 +1,4 @@
+self: play -> db-readonly 0.1
+
+require:
+    - play
